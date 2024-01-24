@@ -1,1 +1,1 @@
-Hello Genius Bar members! Here is the github repository that you will reference throughut the semester for the various projects that we will create :)
+Hello Genius Bar members! Here is the github repository that you will reference throughut the semester for the various projects that we will create. Just click on the Genuis Bar lessons folder and you will find all the resources there :)

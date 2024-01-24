@@ -1,0 +1,19 @@
+Set Up Instructions:
+Make everyone get Visual Studio Code for Windows/Mac.
+Make them download the following extesnions: HTML, CSS, HTML CSS Support, and Live Server (so they can launch their webistes). 
+Make them create a new folder, create a new HTML file, CSS file, and find an image that they want to showcase on their website and add it to the folder. 
+Now that everything is on visual studio, check to see what time it is, if there's a lot of time, explain why the code works, if there is 10 minutes or less left before lunch ends, just make them copy the code from the github and say that next metting we will exaplin how it all works.
+Since the CSS code is going to take too long to explain, just make them copy past from the website and explain only the HTML code.
+
+
+
+HTML code explanation: <html></html> - to open a new html code file
+<></> - html syntax (html does not use ;)
+<head></head> where you include the title of the website and add links to all the files and databases you want to include in your website
+<title>Website Name</title> - the name that will appear on the tab once you open the website
+*IMPORTANT* <link href="style.css" rel="stylesheet"> How you link websites in HTML href= where the link/file name goes and rel=stylesheet defines the relationsheep between the two files
+<body></body> where the text, commands, and fun things go
+h1-h6 - big word text. h1 being the biggest one
+*Important* <img src="Image Name"/> unlike links, images get called upon in the body and have a closing slash /
+<p> standard word size, good for writing paragraphs.
+
